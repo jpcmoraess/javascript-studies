@@ -14,3 +14,9 @@ const dobroNumero = (numero) => {
 dobroNumero(2);
 dobroNumero(4);
 dobroNumero(8);
+
+const saudacao2 = nome => console.log(`Olá, ${nome}`);
+
+saudacao2('João Pedro');
+saudacao2('Eloíse');
+saudacao2('Elielda');
