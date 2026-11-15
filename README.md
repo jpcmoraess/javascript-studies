@@ -12,6 +12,7 @@ Exercícios de fundamentos de JavaScript executados com Node.js, feitos durante 
 | `nodejs-estudos/desafioLacoRepeticao.js` | Contagem de números pares e ímpares de 0 a 100 |
 | `nodejs-estudos/listaExerciciosLacos.js` | Lista de exercícios: conversão Celsius para Fahrenheit, fatorial com validação de entrada, sequência de Fibonacci, soma dos dígitos, pirâmide de asteriscos e contagem de notas e moedas |
 | `nodejs-estudos/arrowFunctions.js` | Sintaxe de Arrow Functions
+| `nodejs-estudos/callbackHOF.js`| Praticando com Higher-Order Functions
 
 ## Como executar
 
